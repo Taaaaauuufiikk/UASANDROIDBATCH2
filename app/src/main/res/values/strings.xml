@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="Event">
+        <item   >Basic Oracle</item>
+        <item   >SQL Express</item>
+        <item   >Microsoft Office</item>
+        <item   >Couch DB</item>
+        <item   >Cubernetes</item>
+        <item   >Kafka</item>
+    </string-array>
+</resources>
+
